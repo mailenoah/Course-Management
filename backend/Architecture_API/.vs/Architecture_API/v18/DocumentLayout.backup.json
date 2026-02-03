@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\00000 completed projects\\00 BIT finalalala\\u22550799_HW01_API\\Architecture_API\\Architecture_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|e:\\00000 completed projects\\00 bit finalalala\\u22550799_hw01_api\\architecture_api\\architecture_api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|e:\\00000 completed projects\\00 bit finalalala\\u22550799_hw01_api\\architecture_api\\architecture_api\\viewmodels\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|solutionrelative:viewmodels\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|e:\\00000 completed projects\\00 bit finalalala\\u22550799_hw01_api\\architecture_api\\architecture_api\\models\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|solutionrelative:models\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|e:\\00000 completed projects\\00 bit finalalala\\u22550799_hw01_api\\architecture_api\\architecture_api\\models\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|solutionrelative:models\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|e:\\00000 completed projects\\00 bit finalalala\\u22550799_hw01_api\\architecture_api\\architecture_api\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseViewModel.cs",
+              "DocumentMoniker": "E:\\00000 completed projects\\00 BIT finalalala\\u22550799_HW01_API\\Architecture_API\\Architecture_API\\ViewModels\\CourseViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CourseViewModel.cs",
+              "ToolTip": "E:\\00000 completed projects\\00 BIT finalalala\\u22550799_HW01_API\\Architecture_API\\Architecture_API\\ViewModels\\CourseViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CourseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:17:28.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\00000 completed projects\\00 BIT finalalala\\u22550799_HW01_API\\Architecture_API\\Architecture_API\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "E:\\00000 completed projects\\00 BIT finalalala\\u22550799_HW01_API\\Architecture_API\\Architecture_API\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:17:28.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\00000 completed projects\\00 BIT finalalala\\u22550799_HW01_API\\Architecture_API\\Architecture_API\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "E:\\00000 completed projects\\00 BIT finalalala\\u22550799_HW01_API\\Architecture_API\\Architecture_API\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:17:28.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "E:\\00000 completed projects\\00 BIT finalalala\\u22550799_HW01_API\\Architecture_API\\Architecture_API\\Models\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "Models\\ICourseRepository.cs",
+              "ToolTip": "E:\\00000 completed projects\\00 BIT finalalala\\u22550799_HW01_API\\Architecture_API\\Architecture_API\\Models\\ICourseRepository.cs",
+              "RelativeToolTip": "Models\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:17:28.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "E:\\00000 completed projects\\00 BIT finalalala\\u22550799_HW01_API\\Architecture_API\\Architecture_API\\Models\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Models\\CourseRepository.cs",
+              "ToolTip": "E:\\00000 completed projects\\00 BIT finalalala\\u22550799_HW01_API\\Architecture_API\\Architecture_API\\Models\\CourseRepository.cs",
+              "RelativeToolTip": "Models\\CourseRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:17:28.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
