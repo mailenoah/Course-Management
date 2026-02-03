@@ -1,0 +1,23 @@
+<div class="container">
+    <div class="row">
+      <div class="col-md-6 offset-md-3">
+        <h2>Edit Course</h2>
+        <form (ngSubmit)="saveCourseChanges()">
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" class="form-control" id="name" [(ngModel)]="course.name" name="name">
+          </div>
+          <div class="form-group">
+            <label for="duration">Duration</label>
+            <input type="text" class="form-control" id="duration" [(ngModel)]="course.duration" name="duration">
+          </div>
+          <div class="form-group">
+            <label for="description">Description</label>
+            <textarea class="form-control" id="description" [(ngModel)]="course.description" name="description"></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary">Save</button>
+          <button type="button" class="btn btn-secondary" (click)="cancel()">Cancel</button>
+        </form>
+      </div>
+    </div>
+  </div>
